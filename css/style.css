@@ -32,3 +32,8 @@ html{
 {
     width: 20rem;
 }
+
+#vw
+{
+    width: 70vw;
+}
