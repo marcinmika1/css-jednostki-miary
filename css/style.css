@@ -17,3 +17,18 @@ html{
 #pixel{
     width: 400px;
 }
+
+#em
+{
+    width: 20em;
+}
+
+#ex
+{
+    width: 40ex;
+}
+
+#rem
+{
+    width: 20rem;
+}
