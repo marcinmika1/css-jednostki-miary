@@ -1,0 +1,19 @@
+html{
+    font-size: 20px;
+}
+
+#container
+{
+    font-size: 30px;
+}
+
+
+#container > div{
+    
+    background-color: rgba(1,255,255,0.7);
+    margin-bottom: 15px
+}
+
+#pixel{
+    width: 400px;
+}
